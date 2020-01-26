@@ -1,2 +1,2 @@
-# Deep_Learning_Fundamentals
+# Deep Learning Fundamentals
 First steps for Deep Learning
