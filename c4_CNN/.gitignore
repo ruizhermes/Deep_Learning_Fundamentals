@@ -1,4 +1,4 @@
 .ipynb_checkpoints/
 car_detection_with_YOLO/*.pyc
 *.pyc
-/home/hermes/sandbox/Deep_Learning_Fundamentals/c4_CNN/Neural_Style_Transfer/pretrained-model/imagenet-vgg-verydeep-19.mat
+imagenet-vgg-verydeep-19.mat
